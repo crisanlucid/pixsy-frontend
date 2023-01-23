@@ -1,6 +1,9 @@
-## vite + React + T
+## vite + React + TS + Tailwind CSS
 
-[] create vite + typescript App
-[] setup eslint + typescript + prettier
-[] setup vitest, jsdom, @testing-library
-[] Setup react-router
+### run localy
+```
+yarn dev
+```
+
+### check page 
+https://pixsy-frontend-nzbesfye0-crisanlucid.vercel.app/admin
